@@ -2,11 +2,9 @@
   NBA ELO
 </h1>
 
-<center>
 ![Python](https://img.shields.io/badge/python-v2.7-blue.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-</center>
 
 ## Overview
 This projects aims to provide up-to-date ELO scores by extending [data](https://github.com/fivethirtyeight/data/tree/master/nba-elo) from 538. Currently, both NBA_ELO.db and nba_elo.csv contain ELO scores up to the conclusion of the 2016-17 season. The resulting table:
