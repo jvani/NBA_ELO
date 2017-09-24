@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-This projects aims to provide up-to-date ELO scores by extending [data](https://github.com/fivethirtyeight/data/tree/master/nba-elo) from 538. Currently, both NBA_ELO.db and nba_elo.csv contain ELO scores up to the conclusion of the 2016-17 season. The resulting table:
+This projects aims to provide up-to-date ELO scores by extending [data](https://github.com/fivethirtyeight/data/tree/master/nba-elo) from 538. Both NBA_ELO.db and nba_elo.csv contain ELO scores up to the conclusion of the 2016-17 season. The resulting table looks like:
 
 | index | date_game | elo_i_away | elo_i_home | elo_n_away | elo_n_home | pts_away | pts_home | team_id_away | team_id_home |
 |-------|------------|------------|------------|------------|------------|----------|----------|--------------|--------------|
