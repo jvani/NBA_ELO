@@ -14,6 +14,12 @@ This projects aims to provide up-to-date ELO scores by extending [data](https://
 |-------|------------|------------|------------|------------|------------|----------|----------|--------------|--------------|
 | 0 | 1946-11-01 | 1300.0 | 1300.0 | 1293.2767 | 1306.7233 | 66 | 68 | TRH | NYK |
 
+
+Calculated ELO scores reasonably match 538's scores:
+<p align="center"> 
+<img width=450 src="data/outputs/elo_comparison.png">
+</p>
+
 ## Requirements
 ```
 nba_py
